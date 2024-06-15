@@ -29,6 +29,16 @@
             "start_date": "January, 2024"
         },
         {
+            "name": "UOG LMS Dark Mode",
+            "tags": ["JavaScript", "HTML", "CSS"],
+            "thumbnail": "projects/imgs/thumbnails/uoglms-thumbnail.webp",
+            "preview": "projects/imgs/previews/uoglms.webp",
+            "short_description": "Dark mode for UOG LMS. Enable dark mode for UOG LMS for a better experience",
+            "long_description": "Dark mode for UOG LMS. Enable dark mode for UOG LMS for a better experience.",
+            "try_link": "https://chromewebstore.google.com/detail/uog-lms-beauty-parlour/heigejlnmahflfjljmcmepehpdnlohcg",
+            "start_date": "June, 2024"
+        },
+        {
             "name": "Woops",
             "tags": ["NextJS", "Tailwind", "Supabase"],
             "thumbnail": "projects/imgs/thumbnails/woops-thumbnail.webp",
@@ -72,7 +82,7 @@
             "preview": "projects/imgs/previews/neutrabize.webp",
             "short_description": "A Chrome extension that lets you customize your new tab/homepage.",
             "long_description": "A Chrome extension that allows you to customize your new tab according to your own wantings. It's internally got a few features itself like changing the background, changing theme color, showing shortcuts on the screen (fixed), and a little meteor animation. But the idea is to allow you to have the code in your hands and be frank with it however you like.",
-            "try_link": "https://najmiter.github.io/neutrabize/",
+            "try_link": "https://chromewebstore.google.com/detail/neutrabize/ppknddihdfnhmdfloaeamelpinalhppe",
             "start_date": "March, 2024"
         },
         {
