@@ -10,7 +10,7 @@ function create_project_card(
             loading="lazy"
             src="${thumbnail}"
             class="project-thumbnail"
-            alt="chitter thumbnail"
+            alt="thumbnail"
         />
         <h2 class="project-title">${name}</h2>
 

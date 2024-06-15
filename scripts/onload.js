@@ -1,7 +1,9 @@
 const projects_wrapper = document.getElementById("projects-wrapper");
 
 async function get_projects() {
-    const jwb = await fetch("../projects/projects.json");
+    const jwb = await fetch(
+        "https://raw.githubusercontent.com/najmiter/CodeAlpha_portfolio/main/projects/projects.json"
+    );
     const { projects } = await jwb.json();
 
     return projects;
